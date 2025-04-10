@@ -24,9 +24,9 @@ namespace MultiShop.IdentityServer
             new IdentityResources.Profile()
         };
 
-        public static IEnumerable<ApiScope> ApiScopes => new ApiScope[] { 
-            new ApiScope("CatalogFullPermission","Full authority for catalog operations"), 
+        public static IEnumerable<ApiScope> ApiScopes => new ApiScope[] {
+            new ApiScope("CatalogFullPermission","Full authority for catalog operations"),
             new ApiScope("CatalogReadPermission", "Reading authority for catalog operations")
-        }
+        };
     }
 }

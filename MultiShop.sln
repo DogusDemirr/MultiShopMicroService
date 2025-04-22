@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiShop.IdentityServer", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requirements", "Requirements", "{28D68E13-29D7-45A1-9BCB-CC17AD6B95D6}"
 	ProjectSection(SolutionItems) = preProject
-		PortainerCmd.txt = PortainerCmd.txt
+		PortNumber.txt = PortNumber.txt
 	EndProjectSection
 EndProject
 Global

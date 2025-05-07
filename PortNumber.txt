@@ -4,3 +4,4 @@ Identity > 5001
 Order > 7090
 Cargo > 7066
 Basket > 5075
+Redis Port > 6379
